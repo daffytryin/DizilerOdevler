@@ -25,7 +25,7 @@ Sıralama : -1 0 22 254 999 1000221 */
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main {
+class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
